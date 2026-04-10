@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432314557199",
+    "project_id": "bai5-firebase",
+    "storage_bucket": "bai5-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432314557199:android:580e236f3dc6ea8db3547a",
+        "android_client_info": {
+          "package_name": "com.example.bai5_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlJNE8zbjqT6jGWnR7zlNtocMp-jNnN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
