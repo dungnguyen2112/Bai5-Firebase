@@ -41,28 +41,26 @@
 Dat anh vao thu muc `screenshots/`, sau do chen vao README theo mau:
 
 ### Dang nhap / Dang ky
-![Login](screenshots/login.png)
-![Register](screenshots/register.png)
+<img width="1080" height="2400" alt="Screenshot_20260410_175032" src="https://github.com/user-attachments/assets/7726cb3b-47d3-40f2-b02e-bbcbfd4f4a6b" />
+<img width="1080" height="2400" alt="Screenshot_20260410_175450" src="https://github.com/user-attachments/assets/e7e2322e-54fc-468a-bb36-27da988fb87e" />
+
 
 ### Trang chu phim + Loc danh muc
-![Movies](screenshots/movies.png)
-![Filter](screenshots/filter.png)
+<img width="1080" height="2400" alt="Screenshot_20260410_175524" src="https://github.com/user-attachments/assets/36c9818d-709a-4768-b6e3-cdbf281bf317" />
+<img width="1080" height="2400" alt="Screenshot_20260410_175543" src="https://github.com/user-attachments/assets/9ffa5d14-1f36-4a30-a507-81c2202a511a" />
 
 ### Chi tiet phim
-![Movie Detail](screenshots/movie_detail.png)
+<img width="1080" height="2400" alt="Screenshot_20260410_175617" src="https://github.com/user-attachments/assets/1dd6edb1-0b51-4d3d-998c-cc17239deb21" />
 
 ### Chon rap / Gio chieu
-![Theaters](screenshots/theaters.png)
-![Showtimes](screenshots/showtimes.png)
+<img width="1080" height="2400" alt="Screenshot_20260410_175640" src="https://github.com/user-attachments/assets/3a71e208-bd5c-4edb-aff9-16a2b661f8d4" />
+<img width="1080" height="2400" alt="Screenshot_20260410_175655" src="https://github.com/user-attachments/assets/7d90ac74-b4e1-46fd-b45d-72bd74418c06" />
 
 ### Chon ghe va tong tien
-![Seat Selection](screenshots/seats.png)
+<img width="1080" height="2400" alt="Screenshot_20260410_175715" src="https://github.com/user-attachments/assets/4ca78a20-beff-4d32-ae9d-8871fd1e4b08" />
 
 ### Ve cua toi
-![My Tickets](screenshots/tickets.png)
-
-### Tai khoan
-![Profile](screenshots/profile.png)
+<img width="1080" height="2400" alt="Screenshot_20260410_175736" src="https://github.com/user-attachments/assets/5f5e6168-90e0-4e21-939c-7b1493c10e78" />
 
 ## 6) Push len GitHub
 ```bash
