@@ -39,6 +39,7 @@
 
 ## 5) Anh chup man hinh (ban bo sung)
 Dat anh vao thu muc `screenshots/`, sau do chen vao README theo mau:
+<img width="1920" height="1020" alt="bai5-firebase - Database - Data - Firebase console - Google Chrome 4_10_2026 5_59_20 PM" src="https://github.com/user-attachments/assets/d1d62f69-c75f-45be-b4c2-bcdb2d264dcd" />
 
 ### Dang nhap / Dang ky
 <img width="1080" height="2400" alt="Screenshot_20260410_175032" src="https://github.com/user-attachments/assets/7726cb3b-47d3-40f2-b02e-bbcbfd4f4a6b" />
